@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter App (Tap tap!)</string>
+<!--    Added a string so that it is not hard coded into the button -->
+    <string name="button_counter">Tap Me!</string>
+</resources>
